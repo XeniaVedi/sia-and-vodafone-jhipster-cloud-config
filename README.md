@@ -1,0 +1,1 @@
+# sia-and-vodafone-jhipster-cloud-config
